@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deepthakkar-sharp
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning C and CPP
+- 🌱 I’m currently learning C,Python and CPP.
 - 📫 How to reach me deepvijaykumarthakkar@gmail.com
 
 <!---
